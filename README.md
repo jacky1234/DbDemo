@@ -1,5 +1,5 @@
 ## 功能示例
-1. ContentProvider 权限等问题
+1. ContentProvider 权限,注册通知等问题
 2. Database 基本操作，升级等。
 
 温故而知新可以为师矣。
